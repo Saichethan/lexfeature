@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: lexfeatures-SaichethanReddy
+Version: 0.0.1
+Summary: A wrapper for encoding Lexical features
+Home-page: https://github.com/Saichethan/lexfeature/
+Author: Saichethan M. Reddy
+Author-email: saichethanreddymiriyala@gmail.com
+License: UNKNOWN
+Description: A wrapper for encoding Lexical features. Simple handcrafted features helps your sequence to sequence model better tagging and chuncking accuracy even in noisy setting. Extremly helpful in case of social media datasets like twitter, reddit or snapchat
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.0
+Description-Content-Type: text/markdown
