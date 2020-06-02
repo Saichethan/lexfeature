@@ -3,6 +3,7 @@ A wrapper for encoding Lexical features. Simple handcrafted features helps your 
 ## Run
 ```
 #pip install lexfeatures-SaichethanReddy
+
 from lexfeatures import *
 r = encoder("Saichethan M. reddy 170101025")
 print(r.encode())
