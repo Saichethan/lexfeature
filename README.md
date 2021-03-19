@@ -25,3 +25,16 @@ from lexfeatures import *
 r = encoder("Saichethan M. reddy 170101025")
 print(r.encode())
 ```
+
+## Citation
+```
+@article{suman2021pay,
+  title={Why pay more? A simple and efficient named entity recognition system for tweets},
+  author={Suman, Chanchal and Reddy, Saichethan Miriyala and Saha, Sriparna and Bhattacharyya, Pushpak},
+  journal={Expert Systems with Applications},
+  volume={167},
+  pages={114101},
+  year={2021},
+  publisher={Elsevier}
+}
+```
